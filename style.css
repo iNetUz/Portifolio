@@ -42,9 +42,11 @@ body{
 .card{
   position: relative;
   display: flex;
+  
   align-items: center;
 }
 .card-img img{
+  border-radius: 30px;
   width: 80px;
 }
 .card h2{
